@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: em7506386@gmail.com
 - ⚡ I Love coding, math, reading.
 - 😄 Languages: English, Arabic (native)
-
+- 🧑🏻‍💻 Skills: HTML5 / CSS3 / BootStrap5 / JavaScript / JQuery / React.js / TypeScript / SASS / Git&Github / OOP / DS&Algorithms.
