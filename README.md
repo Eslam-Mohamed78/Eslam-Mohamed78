@@ -5,11 +5,14 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently studying at the faculty of Engineering, Department of Computer and Control Systems, Tanta University, Egypt.
-- 🌱 I’m Junior SWE & React.js Front End Web Developer.
-- 👯 I’m looking to collaborate on Front End Projects.
+- 🌱 I’m a SWE & Full Stack Developer (ReactJS & NodeJS).
+- 🔭 I’m have studied at the faculty of Engineering, Department of Computer and Control Systems, Tanta University.
+- 👯 I’m looking to collaborate on Frontend & Backend Projects.
 - 💬 Ask me about Web Technologies.
-- 📫 How to reach me: em7506386@gmail.com
+- 📫 How to reach me: eslam.mohamed.swe@gmail.com
 - ⚡ I Love coding, math, reading.
 - 😄 Languages: English, Arabic (native)
-- 🧑🏻‍💻 Skills: HTML5 / CSS3 / BootStrap5 / JavaScript / JQuery / React.js / TypeScript / SASS / Git&Github / OOP / DS&Algorithms.
+- 🧑🏻‍💻 Skills:
+        Front-End (HTML - CSS - Bootstrap - Tailwind - Chakra UI - JavaScript - TypeScript - JQuery - ReactJS - Redux - SCSS - NextJS)
+        Back-End (SQL - MS Sql - NodeJS - ORM Sequelize - ExpressJS - MongoDB - Mongoose - Socket.io - REST API - Git - GitHub)
+        Soft-Skills (Problem-Solving - Communication - Team-Work)
